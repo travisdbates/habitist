@@ -51,6 +51,9 @@ You can use [https://www.thetimezoneconverter.com](https://www.thetimezoneconver
 
 7. If everything is setup correctly, the streak on the tasks will automatically increase/decrease on the next day.
 
+## Forks
+- [srpoyrek: habitist](https://github.com/srpoyrek/habitist) has developed a fork where you can schedule the task to be deleted after reaching a goal. 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
