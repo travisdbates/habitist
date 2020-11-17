@@ -94,7 +94,7 @@ class Task(object):
         Set streak to zero.
         """
         self.set_streak(0)
-        self.item.update(due={'string': 'ev day starting {}'.format(today)})
+        self.item.update_date_complete(due={'string': 'ev day starting {}'.format(today)})
 
 
 class Todoist(object):
